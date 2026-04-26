@@ -1,0 +1,7 @@
+/accounts/:name /service-worker-index 200
+/accounts/:name/* /service-worker-index 200
+/statuses/:id /service-worker-index 200
+/statuses/:id/* /service-worker-index 200
+/settings/instances/:name /service-worker-index 200
+/lists/:id /service-worker-index 200
+/tags/:tag /service-worker-index 200
